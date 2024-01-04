@@ -1,2 +1,2 @@
 # understanding-git
-understanding git in 
+understanding git in good way
